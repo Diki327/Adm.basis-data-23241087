@@ -1,5 +1,5 @@
--- nama : Angga Saputra
--- NIM : 23241084
+-- nama : L.muh sadikin
+-- NIM : 23241087
 -- kelas : C
 
 -- Melihat database yang ada
