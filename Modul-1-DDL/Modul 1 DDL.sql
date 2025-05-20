@@ -1,5 +1,5 @@
--- Nama : Angga Saputra
--- Nim  : 23241084
+-- Nama : L.muh sadikin
+-- Nim  : 23241087
 -- Kelas: C
 -- Kelas: Pendidikan Teknologi Informasi
 
