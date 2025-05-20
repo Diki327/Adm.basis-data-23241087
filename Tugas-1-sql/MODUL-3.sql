@@ -1,6 +1,6 @@
 -- Modul    : 3 Nilai Literal, Operator, Fungsi, Date, dan Klausal WHERE
--- Nama     : Angga Saputra
--- NIM      : 23241084
+-- Nama     : L.muh sadikin
+-- NIM      : 23241087
 -- Kelas    : PTI/C/IV
 
 -- menggunakan database
